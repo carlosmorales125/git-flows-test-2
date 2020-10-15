@@ -8,3 +8,7 @@ F1 had a bug and developer is resolving.
 - still working on F2.
 - F2 is now ready.
 
+## F3
+- still working on F3
+- still still working on F3
+- F3 is ready
