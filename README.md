@@ -12,3 +12,4 @@
 - still working on F3
 - still still working on F3
 - F3 is ready
+- F3 bug found in RC2 Fixed
