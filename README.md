@@ -3,3 +3,4 @@
 ## F3
 - still working on F3
 - still still working on F3
+- F3 is ready
